@@ -1,0 +1,11 @@
+C:\Users\joaor\source\repos\Temperatura\bin\Debug\Temperatura.exe.config
+C:\Users\joaor\source\repos\Temperatura\bin\Debug\Temperatura.exe
+C:\Users\joaor\source\repos\Temperatura\bin\Debug\Temperatura.pdb
+C:\Users\joaor\source\repos\Temperatura\obj\Debug\Temperatura.csproj.AssemblyReference.cache
+C:\Users\joaor\source\repos\Temperatura\obj\Debug\Temperatura.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaor\source\repos\Temperatura\obj\Debug\Temperatura.Properties.Resources.resources
+C:\Users\joaor\source\repos\Temperatura\obj\Debug\Temperatura.csproj.GenerateResource.cache
+C:\Users\joaor\source\repos\Temperatura\obj\Debug\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\joaor\source\repos\Temperatura\obj\Debug\Temperatura.exe
+C:\Users\joaor\source\repos\Temperatura\obj\Debug\Temperatura.pdb
+C:\Users\joaor\source\repos\Temperatura\obj\Debug\Temperatura.ConversorDeTemperatura.resources
